@@ -4,7 +4,7 @@
   <em>
     🎓 Studying at Université Polytechnique des Hauts-de-France<br>
     💻 Passionate about coding, problem-solving, and building cool projects<br>
-    ⚔️ Wielding Python, Java, C#, and JavaScript<br>
+    ⚔️ Wielding Python, Java, C#<br>
     🐉 Epic TTRPG adventures, 3D prints, and lifting iron
   </em>
 </p>
@@ -14,7 +14,7 @@
 ## ⚔️ Current Quests
 - 🧠 **Learning advanced algorithms and software design**
 - 🖨️ **Designing and printing 3D models for TTRPGs**
-- 🎲 **Building tools for Dungeons & Dragons campaigns**
+- 🎲 **Building tools for my own Dungeons & Dragons campaigns**
 - 💪 **Balancing coding projects with gym routine**
 
 ---
