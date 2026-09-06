@@ -1,11 +1,11 @@
-<h1 align="center">Hail, I'm Dimitri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hello, I'm Dimitri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <em>
-    🎓 Studying at Université Polytechnique des Hauts-de-France<br>
+    🎓 Studying at Université de Lille<br>
     💻 Passionate about coding, problem-solving, and building cool projects<br>
-    ⚔️ Wielding Python, Java, C#<br>
-    🐉 Epic TTRPG adventures, 3D prints, and lifting iron
+    ⚔️ Wielding Java, C#, Python<br>
+    🐉 Epic TTRPG adventures, 3D prints
   </em>
 </p>
 
@@ -15,18 +15,17 @@
 - 🧠 **Learning advanced algorithms and software design**
 - 🖨️ **Designing and printing 3D models for TTRPGs**
 - 🎲 **Building tools for my own Dungeons & Dragons campaigns**
-- 💪 **Balancing coding projects with gym routine**
 
 ---
 
 ## 🔧 Languages & Tools
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </p>
 
 ---
